@@ -1,4 +1,4 @@
-Vale
+ Vale
 
 A Neovim wrapper around Vale, the syntax-aware linter for prose.
 
